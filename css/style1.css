@@ -1,0 +1,14 @@
+.txt1 {
+  font-size: 40px;
+  text-align: justify;
+}
+
+.txt2 {
+  font-size: 20px;
+  text-align: justify;
+}
+.imgCircular{
+	border-radius: 100%;
+	 width: 300px; 
+     height: 300px;
+}
